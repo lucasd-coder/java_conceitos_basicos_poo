@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entites.Commom&apos; to &apos;Comment&apos;&#x0D;&#x0A;- Original project: &apos;haula_stringBuider&apos;&#x0D;&#x0A;- Original element: &apos;entites.Commom&apos;&#x0D;&#x0A;- Renamed element: &apos;entites.Comment&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Commom&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entites{Commom.java[Commom" matchStrategy="1" name="Comment" qualified="false" references="true" similarDeclarations="true" stamp="1600890172907" textual="true" version="1.0"/>
+</session>

@@ -1,0 +1,2 @@
+module haula1 {
+}
